@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="algs">
+    <CLASSES>
+      <root url="file://$APPLICATION_CONFIG_DIR$/extensions/algs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$APPLICATION_CONFIG_DIR$/extensions/algs" />
+    </SOURCES>
+    <jarDirectory url="file://$APPLICATION_CONFIG_DIR$/extensions/algs" recursive="false" />
+    <jarDirectory url="file://$APPLICATION_CONFIG_DIR$/extensions/algs" recursive="false" type="SOURCES" />
+  </library>
+</component>
